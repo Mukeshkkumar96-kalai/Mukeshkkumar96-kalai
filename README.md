@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Mukeshkkumar
 
-<!--
-**Mukeshkkumar96-kalai/Mukeshkkumar96-kalai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ECE Student | Full Stack + IoT Learner
 
-Here are some ideas to get you started:
+## Current Focus
+- Full Stack Development
+- Embedded Systems
+- IoT Integration
+- Linux & Networking
+- ESP32 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning Roadmap
+Currently following a long-term roadmap focused on:
+- Electronics Fundamentals
+- Embedded Systems
+- Web Development
+- APIs & Databases
+- MQTT & IoT
+- Cloud Deployment
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- ESP32
+- Arduino
+- Git & GitHub
+- Linux
+
+## Current Goals
+- Build portfolio-quality projects
+- Improve debugging skills
+- Learn system integration
+- Develop engineering discipline
+
+## Featured Projects
+- IoT Dashboard
+- ESP32 Sensor Projects
+- Full Stack Practice Apps
+
+## GitHub Goals
+- Daily progress
+- Documentation-first learning
+- Consistent project building
