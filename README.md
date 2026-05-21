@@ -18,7 +18,7 @@ Currently following a long-term roadmap focused on:
 - MQTT & IoT
 - Cloud Deployment
 
-## Technologies
+## Technologies covered to learn 
 - HTML
 - CSS
 - JavaScript
